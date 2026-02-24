@@ -56,4 +56,4 @@ Este repositorio contiene el **proyecto final** del bootcamp, compuesto por **3 
 
 ## Notas
 - Los casos de uso son **independientes**: cada carpeta/dataset corresponde a un caso distinto.
-- Si algún dataset no debe publicarse por tamaño o privacidad, se recomienda moverlo a `data/` e ignorarlo con `.gitignore`.
+
