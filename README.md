@@ -6,7 +6,6 @@
 **Autor:** Francisco Pinto  
 **Stack:** Python (pandas, numpy), Jupyter, SQL (PostgreSQL)
 
-## Descripción
 ## Descripción / Overview
 
 🇪🇸
