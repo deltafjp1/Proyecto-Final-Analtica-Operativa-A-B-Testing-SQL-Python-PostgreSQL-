@@ -35,21 +35,29 @@ The project demonstrates key Junior Data Analyst skills: data cleaning and prepa
 
 ## Casos incluidos / Included Case Studies
 
+### Navegación rápida / Quick Navigation
+
+- [Caso 1: Analítica operativa para Call Center / Case 1: Call Center Operational Analytics](#case-1-operational-analytics)
+- [Caso 2: Prueba A/B para funnel de conversión / Case 2: A/B Testing for Conversion Funnel](#case-2-ab-testing)
+- [Caso 3: Análisis SQL de negocio / Case 3: SQL Business Analytics](#case-3-sql-business-analytics)
+
 ### 🇪🇸 Español
 
-| Caso                                    | Enfoque                                                                                                                                                    | Herramientas                               | Valor de negocio                                                                                  |
-| --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------- |
-| 1. Analítica operativa para Call Center | Evaluación del desempeño de operadores mediante KPIs operativos como tasa de llamadas perdidas, tiempo promedio de espera y volumen de llamadas salientes. | Python, pandas, análisis estadístico       | Priorización de coaching, mejora del servicio y monitoreo del desempeño operativo.                |
-| 2. Prueba A/B para funnel de conversión | Análisis del comportamiento de usuarios dentro de un funnel digital y validación de hipótesis mediante pruebas estadísticas.                               | Python, pandas, z-test, análisis de funnel | Validación de decisiones de producto con evidencia estadística antes de implementar cambios.      |
-| 3. Análisis SQL de negocio              | Consultas sobre una base relacional de libros, autores, editoriales, calificaciones y reseñas para responder preguntas de negocio.                         | PostgreSQL, SQL joins, agregaciones, CTEs  | Extracción de KPIs y generación de respuestas de negocio a partir de bases de datos relacionales. |
+| Caso | Enfoque | Herramientas | Valor de negocio |
+|---|---|---|---|
+| [1. Analítica operativa para Call Center](#case-1-operational-analytics) | Evaluación del desempeño de operadores mediante KPIs operativos como tasa de llamadas perdidas, tiempo promedio de espera y volumen de llamadas salientes. | Python, pandas, análisis estadístico | Priorización de coaching, mejora del servicio y monitoreo del desempeño operativo. |
+| [2. Prueba A/B para funnel de conversión](#case-2-ab-testing) | Análisis del comportamiento de usuarios dentro de un funnel digital y validación de hipótesis mediante pruebas estadísticas. | Python, pandas, z-test, análisis de funnel | Validación de decisiones de producto con evidencia estadística antes de implementar cambios. |
+| [3. Análisis SQL de negocio](#case-3-sql-business-analytics) | Consultas sobre una base relacional de libros, autores, editoriales, calificaciones y reseñas para responder preguntas de negocio. | PostgreSQL, SQL joins, agregaciones, CTEs | Extracción de KPIs y generación de respuestas de negocio a partir de bases de datos relacionales. |
 
 ### 🇬🇧 English
 
-| Case                                 | Focus                                                                                                                               | Tools                                     | Business Value                                                                           |
-| ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------- |
-| 1. Call Center Operational Analytics | Evaluation of operator performance using operational KPIs such as missed call rate, average waiting time, and outbound call volume. | Python, pandas, statistical analysis      | Prioritization of coaching, service improvement, and operational performance monitoring. |
-| 2. A/B Testing for Conversion Funnel | Analysis of user behavior within a digital funnel and hypothesis validation through statistical testing.                            | Python, pandas, z-test, funnel analysis   | Validation of product decisions with statistical evidence before implementing changes.   |
-| 3. SQL Business Analytics            | Queries on a relational database of books, authors, publishers, ratings, and reviews to answer business questions.                  | PostgreSQL, SQL joins, aggregations, CTEs | Extraction of KPIs and business insights from relational databases.                      |
+| Case | Focus | Tools | Business Value |
+|---|---|---|---|
+| [1. Call Center Operational Analytics](#case-1-operational-analytics) | Evaluation of operator performance using operational KPIs such as missed call rate, average waiting time, and outbound call volume. | Python, pandas, statistical analysis | Prioritization of coaching, service improvement, and operational performance monitoring. |
+| [2. A/B Testing for Conversion Funnel](#case-2-ab-testing) | Analysis of user behavior within a digital funnel and hypothesis validation through statistical testing. | Python, pandas, z-test, funnel analysis | Validation of product decisions with statistical evidence before implementing changes. |
+| [3. SQL Business Analytics](#case-3-sql-business-analytics) | Queries on a relational database of books, authors, publishers, ratings, and reviews to answer business questions. | PostgreSQL, SQL joins, aggregations, CTEs | Extraction of KPIs and business insights from relational databases. |
+
+<a id="case-1-operational-analytics"></a>
 
 ## 1. Analítica operativa para Call Center / Call Center Operational Analytics
 
@@ -151,6 +159,7 @@ In a real business context, this analysis could be used to build a recurring ope
 * Presentación / Presentation: [presentacion proyecto Final telecomunicaciones.pdf](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-/blob/main/presentacion%20proyecto%20Final%20telecomunicaciones.pdf)
 * Gráficas exportadas / Exported charts: [graficas_pdf/](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-/tree/main/graficas_pdf)
 
+<a id="case-2-ab-testing"></a>
 
 ## 2. Prueba A/B para funnel de conversión / A/B Testing for Conversion Funnel
 
@@ -280,6 +289,7 @@ In a real business context, this analysis would support the decision of whether 
 * Análisis de funnel / Funnel analysis
 * Pruebas estadísticas / Statistical testing
 
+<a id="case-3-sql-business-analytics"></a>
 
 ## 3. Análisis SQL de negocio / SQL Business Analytics
 
