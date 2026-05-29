@@ -1,10 +1,23 @@
-﻿# Data Analytics Portfolio Project | Operational Analytics, A/B Testing & SQL
+# Data Analytics Portfolio Project | Operational Analytics, A/B Testing & SQL
 
  🇪🇸 Proyecto de analítica de datos aplicado a operaciones, experimentación digital y consultas SQL de negocio.  
 🇬🇧 Data analytics project focused on operations, digital experimentation, and SQL business queries.
 
 **Autor:** Francisco Pinto  
 **Stack:** Python (pandas, numpy), Jupyter, SQL (PostgreSQL)
+
+## Acceso rápido a entregables / Quick Access to Deliverables
+
+| Entregable / Deliverable | Enlace directo / Direct Link |
+|---|---|
+| 📓 Notebook principal — Analítica operativa / Main notebook — Operational Analytics | [Abrir notebook / Open notebook](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-/blob/main/Proyecto%20final%20merged/Proyecto_Final_Bootcamp_data_analitics.ipynb) |
+| 🧪 Notebook y datasets — Prueba A/B / Notebook and datasets — A/B Testing | [Abrir carpeta / Open folder](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-/tree/main/Test%20AB) |
+| 🗄️ Notebook SQL / SQL notebook | [Abrir notebook / Open notebook](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-/blob/main/proyecto%20final%20entrega%20SQL.ipynb) |
+| 🗄️ Notebook SQL revisado / Revised SQL notebook | [Abrir notebook / Open notebook](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-/blob/main/entrega%20de%20proyecto%20final%20sql-%20version%20revisada.ipynb) |
+| 🎞️ Presentación final / Final presentation | [Abrir PDF / Open PDF](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-/blob/main/presentacion%20proyecto%20Final%20telecomunicaciones.pdf) |
+| 📈 Gráficas exportadas / Exported charts | [Abrir carpeta / Open folder](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-/tree/main/graficas_pdf) |
+
+---
 
 ## Descripción / Overview
 
@@ -134,9 +147,9 @@ In a real business context, this analysis could be used to build a recurring ope
 
 ### Entregables / Deliverables
 
-* Notebook principal / Main notebook: `Proyecto final merged/Proyecto_Final_Bootcamp_data_analitics.ipynb`
-* Presentación / Presentation: `presentacion proyecto Final telecomunicaciones.pdf`
-* Gráficas exportadas / Exported charts: `graficas_pdf/`
+* Notebook principal / Main notebook: [Proyecto_Final_Bootcamp_data_analitics.ipynb](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-/blob/main/Proyecto%20final%20merged/Proyecto_Final_Bootcamp_data_analitics.ipynb)
+* Presentación / Presentation: [presentacion proyecto Final telecomunicaciones.pdf](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-/blob/main/presentacion%20proyecto%20Final%20telecomunicaciones.pdf)
+* Gráficas exportadas / Exported charts: [graficas_pdf/](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-/tree/main/graficas_pdf)
 
 
 ## 2. Prueba A/B para funnel de conversión / A/B Testing for Conversion Funnel
@@ -263,8 +276,7 @@ In a real business context, this analysis would support the decision of whether 
 
 ### Entregables / Deliverables
 
-* Notebook de análisis A/B / A/B testing notebook: `Test AB/`
-* Datasets del experimento / Experiment datasets: `Test AB/`
+* Notebook y datasets de análisis A/B / A/B testing notebook and datasets: [Test AB/](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-/tree/main/Test%20AB)
 * Análisis de funnel / Funnel analysis
 * Pruebas estadísticas / Statistical testing
 
@@ -399,8 +411,8 @@ In a real business context, this type of analysis could be used to build automat
 
 ### Entregables / Deliverables
 
-* Notebook SQL / SQL notebook: `proyecto final entrega SQL.ipynb`
-* Notebook SQL revisado / Revised SQL notebook: `entrega de proyecto final sql- version revisada.ipynb`
+* Notebook SQL / SQL notebook: [proyecto final entrega SQL.ipynb](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-/blob/main/proyecto%20final%20entrega%20SQL.ipynb)
+* Notebook SQL revisado / Revised SQL notebook: [entrega de proyecto final sql- version revisada.ipynb](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-/blob/main/entrega%20de%20proyecto%20final%20sql-%20version%20revisada.ipynb)
 * Base de datos relacional / Relational database
 * Consultas SQL / SQL queries
 * Respuestas a requerimientos de negocio / Business requirement answers
@@ -414,20 +426,20 @@ Este repositorio incluye notebooks, presentación, gráficas exportadas y datase
 This repository includes notebooks, a presentation, exported charts, and datasets organized according to each analysis case.
 
 * 📓 **Notebook principal — Analítica operativa / Main notebook — Operational Analytics:**
-  `Proyecto final merged/Proyecto_Final_Bootcamp_data_analitics.ipynb`
+  [Proyecto final merged/Proyecto_Final_Bootcamp_data_analitics.ipynb](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-/blob/main/Proyecto%20final%20merged/Proyecto_Final_Bootcamp_data_analitics.ipynb)
 
 * 🧪 **Notebook y datasets — Prueba A/B / Notebook and datasets — A/B Testing:**
-  `Test AB/`
+  [Test AB/](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-/tree/main/Test%20AB)
 
 * 🗄️ **Notebooks SQL / SQL notebooks:**
-  `proyecto final entrega SQL.ipynb`
-  `entrega de proyecto final sql- version revisada.ipynb`
+  [proyecto final entrega SQL.ipynb](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-/blob/main/proyecto%20final%20entrega%20SQL.ipynb)  
+  [entrega de proyecto final sql- version revisada.ipynb](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-/blob/main/entrega%20de%20proyecto%20final%20sql-%20version%20revisada.ipynb)
 
 * 🎞️ **Presentación final / Final presentation:**
-  `presentacion proyecto Final telecomunicaciones.pdf`
+  [presentacion proyecto Final telecomunicaciones.pdf](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-/blob/main/presentacion%20proyecto%20Final%20telecomunicaciones.pdf)
 
 * 📈 **Gráficas exportadas / Exported charts:**
-  `graficas_pdf/`
+  [graficas_pdf/](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-/tree/main/graficas_pdf)
 
 ---
 
@@ -546,5 +558,3 @@ Then you can review the notebooks related to the A/B test and the SQL analysis.
 * The datasets from each case are not related to each other.
 * The project is designed to demonstrate data analysis skills applied to business problems.
 * Some paths and file names preserve the original academic project structure.
-
-
